@@ -41,10 +41,8 @@ pop up that shows up.
 - Moment: to display dates and times in JavaScript
 
 ### Screenshots
-![IMG_7608](https://user-images.githubusercontent.com/78612367/153726149-52977a99-5723-4078-be0f-9bf1075e58b6.PNG)
-![IMG_7614](https://user-images.githubusercontent.com/78612367/153726166-114e7dc9-c104-49a9-8a4d-697e8cb19a41.PNG)
+<img src="https://user-images.githubusercontent.com/78612367/153726149-52977a99-5723-4078-be0f-9bf1075e58b6.PNG" width="300px"/>     <img src="https://user-images.githubusercontent.com/78612367/153726166-114e7dc9-c104-49a9-8a4d-697e8cb19a41.PNG" width="300px"/>
 
 Changes background color as per day time of the user mobile
 
-![IMG_7613](https://user-images.githubusercontent.com/78612367/153726184-7f4f1fec-710f-4399-bce9-c880fb4d68f7.PNG)
-![IMG_7624](https://user-images.githubusercontent.com/78612367/153726415-2e4b276c-9945-4502-85bf-97add6b03774.jpg)
+<img src="https://user-images.githubusercontent.com/78612367/153726184-7f4f1fec-710f-4399-bce9-c880fb4d68f7.PNG" width="300px"/>    <img src="https://user-images.githubusercontent.com/78612367/153726415-2e4b276c-9945-4502-85bf-97add6b03774.jpg" width="300px"/>
